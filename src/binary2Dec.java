@@ -15,6 +15,7 @@ public class binary2Dec {
 			total = total + Math.pow(2, i)*remain;
 		 }
 		 else{System.out.println("The number is not binary");
+		      System.out.println("This is one to check branching ");
 		 bin = 0;}
 		  
 	 }
