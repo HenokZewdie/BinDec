@@ -7,7 +7,7 @@ public class binary2Dec {
 	 System.out.println("Enter the number:    ");
 	 bin = input.nextInt();
 	 double total = 0;
-	System.out.Println("Online change");
+	System.out.Println("Online change on different line");
 	 for(int i = 0; bin>0; i++){
 		 remain = bin%10;
 		 if(remain == 1 || remain == 0){
