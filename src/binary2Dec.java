@@ -7,7 +7,6 @@ public class binary2Dec {
 	 System.out.println("Enter the number:    ");
 	 bin = input.nextInt();
 	 double total = 0;
-	System.out.println("Create a conflict");
 	 for(int i = 0; bin>0; i++){
 		 remain = bin%10;
 		 if(remain == 1 || remain == 0){
@@ -16,7 +15,7 @@ public class binary2Dec {
 		 }
 		 else{System.out.println("The number is not binary");
 		 bin = 0;}
-		  
+		System.out.println("Line 18 on local");
 	 }
 	 System.out.println("Decimal   " + total);
  }
