@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24d84ba9-f9be-4118-92fb-a566cca8268e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/binary2Dec.class" afterPath="$PROJECT_DIR$/bin/binary2Dec.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/binary2Dec.java" afterPath="$PROJECT_DIR$/src/binary2Dec.java" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
@@ -20,8 +18,8 @@
       <file leaf-file-name="binary2Dec.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/binary2Dec.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+            <state relative-caret-position="372">
+              <caret line="20" column="38" lean-forward="false" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -529,12 +527,12 @@
       <option name="presentableId" value="Default" />
       <updated>1499120348337</updated>
       <workItem from="1499120355154" duration="83000" />
-      <workItem from="1499182768324" duration="74000" />
+      <workItem from="1499182768324" duration="430000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="157000" />
+    <option name="totallyTimeSpent" value="513000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1932" height="1038" extended-state="0" />
@@ -595,8 +593,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/binary2Dec.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        <state relative-caret-position="372">
+          <caret line="20" column="38" lean-forward="false" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
           <folding />
         </state>
       </provider>
